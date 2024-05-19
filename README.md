@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sagarramdev173@gmail.com**
 
-- 📄 Know about my experiences [https://rxresu.me/sagarramdev173/painful-active-catshark](https://rxresu.me/sagarramdev173/sagar-resume)
+- 📄 Know about my experiences [https://rxresu.me/sagarramdev173/sagar-resume](https://rxresu.me/sagarramdev173/sagar-resume)
 
 - ⚡ Fun fact **I'm a hilarious aficionado of knowledge, constantly blabbering about the latest in tech like it's the juiciest gossip. If laughter is the best medicine, then consider me your personal pharmacist. Ready to learn and share a laugh or two along the way!**
 
