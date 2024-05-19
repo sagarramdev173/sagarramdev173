@@ -1,6 +1,5 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Sagar</h1>
-<h3 align="center">A Embedded Linux developer from India wokring with oracle currently as sustaining engineer in Oracle linux team for a userspace</h3>
+<h3 align="center">An Embedded Linux developer from India, currently navigating the Oracle Linux team as a sustaining engineer, specializing in userspace</h3>
 
 - 🔭 I’m currently working on [pcp project](https://github.com/performancecopilot/pcp)
 
