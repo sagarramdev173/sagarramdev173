@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [My resume](https://rxresu.me/sagarramdev173/sagar-resume)
 
-- ⚡ Fun fact **I'm a hilarious aficionado of knowledge, constantly blabbering about the latest in tech like it's the juiciest gossip. If laughter is the best medicine, then consider me your personal pharmacist. Ready to learn and share a laugh or two along the way!**
+- ⚡ Fun fact **With a passion for learning and a knack for keeping up with the latest in technology, I bring a blend of humor and expertise to every conversation. If laughter is indeed the best medicine, then think of me as your professional pharmacist, always ready to exchange knowledge and a few good laughs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
